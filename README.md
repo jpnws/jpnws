@@ -1,2 +1,1 @@
-- 🔭 I’m currently working on my job application tracking tool called GoodJob.
 - 🌱 I’m specializing in React, JavaScript, HTML, and CSS.
