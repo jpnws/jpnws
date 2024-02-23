@@ -4,4 +4,4 @@
 
 - 🌱 Specializing in React, JavaScript, HTML, and CSS.
 - 🖋️ Currently learning Express.js and PostgreSQL.
-- 📨 You can reach me through [linkedin](www.linkedin.com/in/ji-park), [email](mailto:ji.park@jpnws.com), or the email form on my [portfolio](https://www.jpnws.com/).
+- 📨 You can reach me through [linkedin](https://www.linkedin.com/in/ji-park), [email](mailto:ji.park@jpnws.com), or the email form on my [portfolio](https://www.jpnws.com/).
