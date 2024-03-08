@@ -1,6 +1,6 @@
 ## Hello👋
 
-### My name is Ji and I'm a Software Engineer
+### My name is Ji and I'm a Software Developer
 
 - 🌱 Specializing in React, JavaScript, HTML, and CSS.
 - 🖋️ Currently learning Node.js, Bun.js, Express.js, Elysia.js, PostgreSQL.
