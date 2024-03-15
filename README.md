@@ -4,7 +4,7 @@
 
 - 🌱 Specializing in React, JavaScript, HTML, and CSS.
 - 🖋️ Currently learning TypeScript, Node.js, Express.js, and PostgreSQL.
-- 📖 Currently working on a hackathon project called [Disco/Bassline](https://github.com/jpnws/bassline).
+- 📖 Currently working on a hackathon project called Disco, a simple discussion board.
     - [Back-end](https://github.com/jpnws/bassline) with TypeScript, Bun.js, Elysia.js, and Prisma/PostgreSQL.
         - Continuous integration with GitHub Actions for building and testing.
         - Continuous deployment to Digital Ocean with Docker container.
