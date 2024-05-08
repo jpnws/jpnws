@@ -6,7 +6,7 @@
 
 - **Front-end:** JavaScript, TypeScript, React, HTML, CSS
 - **Back-end:** JavaScript, TypeScript, Node.js, Express, SQL/NoSQL
-- **DevOps:** AWS CDK, GitHub Actions, AWS CodePipeline
+- **DevOps:** AWS CDK, GitHub Actions, AWS CodePipeline, Docker
 
 #### 📁 Portfolio
 Take a look at my projects and see what I've been working on! Check out my [portfolio](https://www.jpnws.com/).
