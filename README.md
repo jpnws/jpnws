@@ -5,7 +5,7 @@
 #### 🛠 Skills
 
 - **Front-end:** JavaScript, TypeScript, React, HTML, CSS
-- **Back-end:** JavaScript, TypeScript, Node.js, Express, SQL/NoSQL
+- **Back-end:** Python, JavaScript, TypeScript, Node.js, Express, SQL/NoSQL
 - **DevOps:** AWS CDK, GitHub Actions, AWS CodePipeline, Docker
 
 #### 📁 Portfolio
